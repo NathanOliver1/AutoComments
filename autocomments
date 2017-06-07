@@ -2,7 +2,7 @@
 It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for at least one of your questions. Thanks!
 
 ###[Q] Good Book
-Sound like you could use a [good C++ book](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+Sounds like you could use a [good C++ book](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 ###[Q] How To Debug
 It sounds like you may need to learn how to use a debugger to step through your code. With a good debugger, you can execute your program line by line and see where it is deviating from what you expect. This is an essential tool if you are going to do any programming. Further reading: [How to debug small programs](http://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
